@@ -2,6 +2,6 @@ const mongoose = require("mongoose");
 
 module.exports = () => {
   return mongoose.connect(
-    "mongodb+srv://jaskaran:jaskaran@cluster0.kzv4y.mongodb.net/web13-ejs"
+    "mongodb+srv://dhaval:dhaval_123@cluster0.mrryx.mongodb.net/web13-ejs"
   );
 };
